@@ -2,6 +2,7 @@
 ## I'm studying computer-science at tsukuba university.
 ## Especialy majering in 3DCG
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsukubamarshmallow&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tsukubamarshmallow&theme=dark&utcOffset=8)
 
 
 <!--
