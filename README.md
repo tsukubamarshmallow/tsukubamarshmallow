@@ -1,4 +1,6 @@
 ### Hi there 👋
+## I'm studying computer-science at tsukuba university.
+## Especialy majering in 3DCG
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,python,php,c,unity)
 
 <!--
