@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm studying computer-science at tsukuba university.
 ## Especialy majering in 3DCG
-![](https://github-readme-stats.vercel.app/api/top-langs?username=tsukubamarshmallow&show_icons=true&locale=en&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsukubamarshmallow&theme=default)
 
 
 <!--
