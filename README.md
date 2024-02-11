@@ -3,6 +3,7 @@
 ## Especialy majering in 3DCG
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,python,php,c,unity)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=tsukubamarshmallow&show_icons=true&locale=en&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiusername=tsukubamarshmallow&show_icons=true&theme=★★★)
 
 <!--
 **tsukubamarshmallow/tsukubamarshmallow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
