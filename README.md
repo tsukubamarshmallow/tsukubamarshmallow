@@ -2,6 +2,7 @@
 ## I'm studying computer-science at tsukuba university.
 ## Especialy majering in 3DCG
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,python,php,c,unity)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=tsukubamarshmallow&show_icons=true&locale=en&layout=compact)
 
 <!--
 **tsukubamarshmallow/tsukubamarshmallow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
