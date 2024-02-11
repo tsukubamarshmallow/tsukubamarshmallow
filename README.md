@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://skillicons.dev/icons?i=html,css,js,typescript,python,php,c,c++)
 
 <!--
 **tsukubamarshmallow/tsukubamarshmallow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
