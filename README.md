@@ -6,7 +6,9 @@
 ![](https://github-stats-evirunurm.vercel.app/api/languages.js?username=tsukubamarshmallow)
 
 
-
+3月課題読書
+1.コンピューターシステムの理論と設計
+2.アルゴリズムとデータ構造
 <!--
 **tsukubamarshmallow/tsukubamarshmallow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
